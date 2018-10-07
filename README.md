@@ -1,2 +1,4 @@
 # OpenQuant
-한국을 대표할 퀀트 전략 검증 라이브러리
+Development and Research is in progress at DAT(Deep Alorithmic Trading) Lab, Seoul.
+
+2018.08 ~ 
