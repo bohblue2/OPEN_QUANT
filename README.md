@@ -11,6 +11,8 @@ Development and Research is in progress at DAT(Deep Alorithmic Trading) Lab, Seo
 
 2018.11.04, Integrating
 
+2019.01.22, Final Testing...
+
 
 
 **Major Issue** : This Project is migrated to Gitlab private repository.
