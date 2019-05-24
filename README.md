@@ -13,6 +13,6 @@ Development and Research is in progress at DAT(Deep Alorithmic Trading) Lab, Seo
 
 2019.01.22, Final Testing...
 
-2019.01.31, There is some problems but we can't find out what is wrong.
+2019.01.31, There are some problems but we can't find out what is wrong.
 
 **Major Issue** : This Project is migrated to Gitlab private repository.
